@@ -1,0 +1,35 @@
+.adidas{
+    width: 120px;
+    height: 100px;
+    border: 20px;
+}
+.puma{
+    width: 120px;
+    height: 100px;
+    border: 20px;
+    }
+h1,h3{
+    text-align: center;
+}
+button{
+    background-color: rgb(195, 0, 182);
+}
+html {
+
+    background-image: url(https://i.pinimg.com/originals/7c/44/6e/7c446eb2cd73cf2dad694aaebe3f62d1.jpg);
+    
+    background-repeat: no-repeat;
+    
+    background-position: center center;
+    
+    background-attachment: fixed;
+    
+    -webkit-background-size: cover;
+    
+    -moz-background-size: cover;
+    
+    -o-background-size: cover;
+    
+    background-size: cover;
+    
+    }
